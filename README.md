@@ -7,6 +7,9 @@ which removes itself.
 The included AWS Lambda backdoor does nothing as it is just a test, but a more
 interesting one could be written easily.
 
+This is to be used for research and penetration testing purposes only. Do not
+use this to commit any crime.
+
 # Usage
 
 Example usage:
