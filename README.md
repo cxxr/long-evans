@@ -10,6 +10,12 @@ interesting one could be written easily.
 This is to be used for research and penetration testing purposes only. Do not
 use this to commit any crime.
 
+# Installation
+
+Long-evans depends on boto3. To install:
+
+    $ pip install boto3
+
 # Usage
 
 Example usage:
